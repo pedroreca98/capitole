@@ -62,10 +62,10 @@ The project is organized into well-defined packages (e.g., `domain`, `service`, 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/capitole-products-api.git
+    git clone https://github.com/pedroreca98/capitole.git
     ```
-
-2. Navigate to the project directory:
+    
+2. Extract the .rar and navigate to the project directory:
     ```bash
     cd capitole-products-api
     ```
